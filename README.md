@@ -19,7 +19,7 @@ Build an UI for chatbot that enables user to select any of the Stock Exchanges a
 - **Modular Components**: Organized into reusable components like `ChatBot`, `HomeMenu`, `StockMenu`, and `StockPrice`.
 
 ## Project Structure
-
+```
 ui/ 
 ├── public/ 
 │ ├── index.html 
@@ -43,6 +43,7 @@ ui/
 ├── tsconfig.json  
 ├── package.json  
 └── ...
+```
 
 ## Getting Started
 
