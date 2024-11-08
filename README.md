@@ -51,9 +51,10 @@ ui/
 
 Make sure you have **Node.js** and **npm** installed. You can check if they are installed by running:
 
-```bash
+```
 node -v
-npm -v```
+npm -v
+```
 
 ### Installation
 
